@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Dataset (download it yourself per README)
+data/*.csv
+
+# Generated artifacts
+outputs/*.png
+outputs/*.csv
+models/*.joblib
+
+# OS/editor
+.DS_Store
+.vscode/
